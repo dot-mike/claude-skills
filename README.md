@@ -10,3 +10,8 @@ Skills related to help build Elastic-stuff
 ```bash
 npx skills@latest add dot-mike/claude-skills/elastic-dashboard
 ```
+
+- `grill-me` - Skill to review inital user plan.
+```bash
+npx skills@latest add dot-mike/claude-skills/grill-me
+```
