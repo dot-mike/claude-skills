@@ -15,3 +15,8 @@ npx skills@latest add dot-mike/claude-skills/elastic-dashboard
 ```bash
 npx skills@latest add dot-mike/claude-skills/grill-me
 ```
+
+- `write-a-skill` - Create new skills
+```bash
+npx skills@latest add dot-mike/claude-skills/write-a-skill
+```
